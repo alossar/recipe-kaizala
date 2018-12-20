@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0078D7;}
+	.st1{opacity:8.000000e-02;fill:url(#SVGID_1_);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<title>Kaizala-app-icon</title>
+<g>
+	<path class="st0" d="M3.9,4.4c-2.6,0-3.9,3.1-2.1,5l4.8,4.8c0.7,0.7,1.1,1.6,1.1,2.6c0,4.1,0,15.1,0,15.2
+		c0,15.3,12.3,27.6,27.6,27.6c15.8,0,28.5-13.4,27.5-29.5C61.8,15.5,49,4.4,34.3,4.4H3.9z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="61.3618" y1="41.9148" x2="35.7322" y2="27.1175">
+		<stop  offset="0" style="stop-color:#000000;stop-opacity:0"/>
+		<stop  offset="0.9988" style="stop-color:#000000"/>
+	</linearGradient>
+	<path class="st1" d="M28.5,39.6l17.7,17.7c0,0,10.8-3.9,15.2-16.8c3.8-11-0.1-19.6-4.4-25.2C53.8,11,28.5,39.6,28.5,39.6z"/>
+	<g>
+		
+			<image style="overflow:visible;opacity:0.7;" width="76" height="65" xlink:href="D8F65550.png"  transform="matrix(1 0 0 1 6 -4)">
+		</image>
+		<g>
+			<path class="st2" d="M30.6,32.9l-8.8-8.8c-1.3-1.3-3.3-1.2-4.5,0c-1.2,1.2-1.2,3.3,0,4.5l8.9,8.9l0,0l2.2,2.2
+				c1.2,1.2,3.3,1.2,4.5,0l27.4-27.4c1.2-1.2,1.2-3.3,0-4.5c-1.2-1.2-3.3-1.2-4.5,0L30.6,32.9z"/>
+		</g>
+	</g>
+</g>
+</svg>

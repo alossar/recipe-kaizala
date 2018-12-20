@@ -1,0 +1,13 @@
+{
+  "id": "kaizala",
+  "name": "Kaizala",
+  "version": "0.0.1",
+  "description": "Kaizala",
+  "main": "index.js",
+  "author": "Alejo Ossa <alossar@live.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webapp.kaiza.la",
+    "hasNotificationSound": true
+  }
+}
